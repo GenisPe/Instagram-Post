@@ -26,7 +26,8 @@ body{
     font-family: Arial, sans-serif;
 }
 .emoticonoscabecera{
-    display: flex;    
+    display: flex;  
+     
 }
 .corazoncabecera {
     display: flex;
@@ -34,7 +35,7 @@ body{
     align-items: center;
     justify-content: center;
 }
-.mensajescabecera {
+#mensaje111 {
     display: flex;
     margin: 30px;
     align-items: center;
@@ -75,7 +76,9 @@ body{
     display: flex;
     flex-direction: row;
     align-items: center;
-    height: 50px
+    
+    justify-content: space-between;
+    
 }
 .fotoperfilpost2{
     display: flex;
@@ -95,7 +98,7 @@ body{
 }
 .puntoscabecerapost {
     display: flex;
-    align-content: flex-end;
+    margin: 30px;
 }
 
 .fotopost{
