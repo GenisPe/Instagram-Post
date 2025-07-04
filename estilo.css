@@ -25,22 +25,7 @@ body{
     text-align:start;
     font-family: Arial, sans-serif;
 }
-.emoticonoscabecera{
-    display: flex;  
-     
-}
-.corazoncabecera {
-    display: flex;
-    margin: 30px;
-    align-items: center;
-    justify-content: center;
-}
-#mensaje111 {
-    display: flex;
-    margin: 30px;
-    align-items: center;
-    justify-content: center;
-}
+
 .historiascabecera{
     display: flex;
 }
@@ -94,11 +79,13 @@ body{
 }
 .nombreusuariopost1 {
     display: flex;
+    margin-left: 10px;
 
 }
 .puntoscabecerapost {
     display: flex;
     margin: 30px;
+    font-size: 20px;
 }
 
 .fotopost{
@@ -129,16 +116,20 @@ body{
 }
 .emopticonocorazonpost {
     display: flex;
+    font-size: 20px;
 }
 .emoticonomensajepost {
     display: flex;
+    font-size: 20px;
 }
 .emoticonoenviarpost {
     display: flex;
+    font-size: 20px;
 }
 .emoticonoguardarpost {
     display: flex;
     margin: 20px;
+    font-size: 20px;
 }
 
 .usuarioscorazon {
